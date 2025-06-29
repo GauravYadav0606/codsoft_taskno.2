@@ -1,7 +1,8 @@
 # codsoft_taskno.2
+---
 # Simple Calculator
 
-**Author:** Gaurav Yadav 
+**Author:** Gaurav Yadav
 **Domain:** C++ Programming  
 
 ---
